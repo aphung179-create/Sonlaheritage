@@ -1,0 +1,8 @@
+{
+  "name": "SON LA HERITAGE – Dấu Ấn Lịch Sử",
+  "description": "Cổng thông tin giới thiệu Bảo tàng Sơn La và Di tích lịch sử Quốc gia đặc biệt Nhà tù Sơn La, Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
